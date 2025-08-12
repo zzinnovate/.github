@@ -24,7 +24,7 @@ Bad UX wastes time. Good UX gives it back.
 Our approach:
 1. Understand complex challenges **fast**.  
 2. Turn them into clear, executable concepts.  
-3. Build solutions so intuitive, they feel obvious — in the best way.
+3. Build solutions so intuitive, they feel obvious.
 
 ---
 
