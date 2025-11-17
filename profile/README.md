@@ -7,7 +7,7 @@ We believe technology should work so smoothly, it almost disappears. When softwa
 
 ## What We Do
 
-Zzinnovate provides a batteries-included core for launching modern digital products. Built on Django and Wagtail with powerful custom modules, we deliver a ready-to-run system that lets organizations go from concept to launch quickly. Without compromising on quality or scalability.
+Zzinnovate provides a batteries-included core for launching modern digital products. Built on Django and Wagtail with powerful custom modules, we deliver a ready-to-run system that lets organizations go from concept to launch quickly. Without compromising on quality, security or scalability.
 
 **The Zzinnovate Core:**
 - Django and Wagtail core with powerful custom modules  
@@ -38,10 +38,10 @@ Secure, scalable, and built to evolve.
 
 ## Strength
 
-A multidisciplinary team combining:
-- **Engineering expertise** — deep knowledge of Django, Wagtail, and cloud architecture  
-- **Design thinking** — user-centered, accessible, intuitive  
-- **Partnership approach** — integrating with technology partners for seamless ecosystems
+- **Design thinking** / user-centered, accessible, intuitive  
+- **Engineering expertise** / deep knowledge of Django, Wagtail, Front-end, and cloud architecture  
+- **Security by design** / prioritizing data protection and compliance from the ground up
+- **Partnership approach** / integrating with technology partners for seamless ecosystems
 
 The result: a batteries-included core that gets digital products from concept to launch, fast.
 
