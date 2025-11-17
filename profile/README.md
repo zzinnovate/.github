@@ -19,8 +19,12 @@ Zzinnovate provides a batteries-included core for launching modern digital produ
 
 We provide the core for your product and you're free to bring your own custom apps, workflows or business logic from anywhere. We integrate with technology partners for extended functionality, from low-code tools to custom APIs. No vendor lock-in, just seamless experiences across your digital ecosystem. 
 
-## Our Technology
+## Approach:
+1. Understand complex challenges **fast**.  
+2. Turn them into clear, executable concepts.  
+3. Build solutions so intuitive, they feel obvious.
 
+## Technology
 The Zzinnovate core is built on proven, enterprise-grade technologies:
 
 - **[Django](https://www.djangoproject.com/)** / robust Python web framework  
@@ -32,7 +36,7 @@ The Zzinnovate core is built on proven, enterprise-grade technologies:
 
 Secure, scalable, and built to evolve.
 
-## Our Strength
+## Strength
 
 A multidisciplinary team combining:
 - **Engineering expertise** — deep knowledge of Django, Wagtail, and cloud architecture  
